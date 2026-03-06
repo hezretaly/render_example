@@ -1,0 +1,8 @@
+data/
+prev_presentations/
+previous_code/
+venv/
+.env
+guide_how_to_create_syllabus.pages
+todo.db
+users.db
