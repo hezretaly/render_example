@@ -6,3 +6,5 @@ venv/
 guide_how_to_create_syllabus.pages
 todo.db
 users.db
+
+.DS_Store
